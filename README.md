@@ -1,4 +1,4 @@
-Citrix Workspace Microapps citrix
+Citrix Workspace Microapps ci
 ==========================
 
 *Catalog of [Microapp][microapps] bundles for [Citrix Workspace][workspace].*
